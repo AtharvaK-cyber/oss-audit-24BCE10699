@@ -3,7 +3,7 @@
 # Author: Your Name | Course: Open Source Software
 
 # Variables
-STUDENT_NAME="Your Name"
+STUDENT_NAME="Atharva Katare"
 SOFTWARE_CHOICE="Git"
 
 # System Info
